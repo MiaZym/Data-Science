@@ -1,1 +1,2 @@
-
+- GRU_C02_predictions file - прогноз развития уровня углекислого газа, используя модель RNN LSTM-GRU
+- Arima_sarima_sarimax - прогноз временных рядов трех разных датасетов и обучение arima-sarimax модели
